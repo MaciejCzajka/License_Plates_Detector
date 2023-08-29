@@ -4,12 +4,13 @@ This app is useful to detect license plates. The app use <em><strong>YoloV3</str
 </p><br/>
 
 # Steps to run the app:<br/>
-  1. Go to the ***API*** folder and run an ***api.py***<br/>
-  2. If IP generated in console is different then the IP in ***App/Api.swift*** in ***\_apiAddress\_***  change it<br/>
-  3. Run the iOS app on simulator or physical device<br/>
-  4. Choose the image from image library or take a photo<br/>
-  5. Click the button ***'Detect license plate'***<br/>
-  6. Wait about 1 minute for detection<br/>
-  7. You can see your license plates history on the second screen called ***'History'***<br/>
-  8. You can delete specific or all license plates from history<br/>
-  9. Back to step 4<br/>
+  1. Install packages from ***requirements.txt***<br/>
+  2. Go to the ***API*** folder and run an ***api.py***<br/>
+  3. If IP generated in console is different then the IP in ***App/Api.swift*** in ***\_apiAddress\_***  change it<br/>
+  4. Run the iOS app on simulator or physical device<br/>
+  5. Choose the image from image library or take a photo<br/>
+  6. Click the button ***'Detect license plate'***<br/>
+  7. Wait about 1 minute for detection<br/>
+  8. You can see your license plates history on the second screen called ***'History'***<br/>
+  9. You can delete specific or all license plates from history<br/>
+  10. Back to step 4<br/>
